@@ -2,36 +2,43 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Niels van Galen Last
+Full Stack Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nvangalenlast@gmail.com">nvangalenlast@gmail.com</a>
+| <a href="https://nielsgl.com">https://nielsgl.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior Data Science and Data Engineering Consultant @ FutureFacts.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Deep / Machine Learning, Data Engineering, Cloud Development
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Deep Learing, Data Visualization, Matrix Theory, Numerical Linear Algebra
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011-2015`
+__Stanford University__, Stanford, California.__
+PhD, Computational & Mathematical Engineering
+Currently on leave.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2011-2014`
+__Stanford University__, Stanford, California.__
+MSc, Computational & Mathematical Engineering
+Courses include: Numerical Linear Algebra, Theoretical Partial Differential Equations,
+Robotics, Large-scale Algorithms, Discrete Algorithms, Information Networks,
+Numerical Optimization, Parallel Computing.
+
 
 - Sizar
 
@@ -87,5 +94,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
